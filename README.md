@@ -1,4 +1,4 @@
-[![Codeward](https://www.codewars.com/users/arxitim/badges/large)](https://www.codewars.com/users/aritim)
+[![Codeward](https://www.codewars.com/users/arxitim/badges/large)](https://www.codewars.com/users/arxitim)
 <!--
 **wtlgo/wtlgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
